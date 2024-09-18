@@ -1,27 +1,27 @@
 Fruits:
-  - Apple:
+  -  Apple:
         Calories: 95
         Fat: 0.3
         Carbs: 25
-  - Banana:
+  -  Banana:
       Calories: 105
       Fat: 0.4
       Carbs: 27
-  - Orange:
+  -  Orange:
         Calories: 45
         Fat: 0.1
         Carbs: 11
 
 Vegetables:
-  - Carrot:
+  -  Carrot:
         Calories: 125
         Fat: 0.1
         Carbs: 6
-  - Tomato:
+  -  Tomato:
       Calories: 22
       Fat: 0.2
       Carbs: 4.8
-  - Cucumber:
+  -  Cucumber:
         Calories: 8
         Fat: 0.1
         Carbs: 1.9
